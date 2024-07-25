@@ -12,7 +12,7 @@ for (const key in myObject) {
 const programming = ["js", "rb", "py", "java", "cpp"]
 
 for (const key in programming) {
-   // console.log(programming[key]);
+//    console.log(programming[key]);
 }
 
 // const map = new Map()
@@ -21,5 +21,5 @@ for (const key in programming) {
 // map.set('FR', "France")
 
 // for (const key in map) {
-//     console.log(key);
+//    console.log(key);
 // }
